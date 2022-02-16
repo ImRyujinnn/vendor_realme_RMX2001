@@ -79,6 +79,7 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     SoterService \
+    EngineerMode \
     ImsService \
     TeeService \
     HotwordEnrollmentOKGoogleCORTEXM4 \
